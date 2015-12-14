@@ -1,5 +1,11 @@
 ## Website Performance Optimization portfolio project
 
+Index.html unminified is at src/index.html
+pizza.html unminified is at views/src/pizza.html
+images in img folder are compressed in img/compressed
+images in views/images are compressed in views/images/compressed
+JavaScript is minified in the js/minified folders
+CSS for pizza.html has been cleaned with Grunt-uncss and is at views/css/cleaned.css
 
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
@@ -32,6 +38,7 @@
 11. I used grunt to minify the HTML and the JavaScript.
 12. I deleted a few other items in Main.js that were not being used. For instance pizzaId was not being used.
 13. I changed the moving PIzzas from 200 to 30. There was no need to have more than 30. They were never seen.
+14. I used Grunt-uncss to remove all the unused bootstrap css 
 
 I have further documentation in main.js. I changed a lot!
 
