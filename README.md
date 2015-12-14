@@ -1,11 +1,12 @@
 ## Website Performance Optimization portfolio project
 
-Index.html unminified is at src/index.html
-pizza.html unminified is at views/src/pizza.html
-images in img folder are compressed in img/compressed
-images in views/images are compressed in views/images/compressed
-JavaScript is minified in the js/minified folders
-CSS for pizza.html has been cleaned with Grunt-uncss and is at views/css/cleaned.css
+#File Locations:
+1. Index.html unminified is at src/index.html
+2. pizza.html unminified is at views/src/pizza.html
+3. images in img folder are compressed in img/compressed
+4. images in views/images are compressed in views/images/compressed
+5. JavaScript is minified in the js/minified folders
+6. CSS for pizza.html has been cleaned with Grunt-uncss and is at views/css/cleaned.css
 
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
