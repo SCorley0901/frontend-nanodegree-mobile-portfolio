@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 
-#File Locations:
+####File Locations:
 1. Index.html unminified is at src/index.html
 2. pizza.html unminified is at views/src/pizza.html
 3. images in img folder are compressed in img/compressed
