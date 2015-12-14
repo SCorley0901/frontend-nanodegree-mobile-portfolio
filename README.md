@@ -37,4 +37,12 @@ I have further documentation in main.js. I changed a lot!
 
 Here are the current numbers:
 
-
+Time to generate pizzas on load: 45.735ms
+main.js:479 Average time to generate last 10 frames: 0.46549999999938907ms
+main.js:479 Average time to generate last 10 frames: 0.4944999999999709ms
+main.js:479 Average time to generate last 10 frames: 0.475ms
+main.js:479 Average time to generate last 10 frames: 0.4289999999997235ms
+main.js:479 Average time to generate last 10 frames: 0.46350000000020375ms
+main.js:479 Average time to generate last 10 frames: 0.4ms
+main.js:479 Average time to generate last 10 frames: 0.31299999999991995ms
+3main.js:445 Time to resize pizzas: 0.9249999999992724ms
